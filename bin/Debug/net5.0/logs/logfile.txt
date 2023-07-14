@@ -1,0 +1,106 @@
+2023-07-13 14:11:07.4514 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:11:07.4828 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:11:07.4828 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:11:07.4828 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:11:07.4828 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:11:13.0981 RestaurantAPI5.Services.RestaurantService Restaurant with id: 3221, DELETE action invoked.
+2023-07-13 14:12:33.0796 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:12:33.1230 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:12:33.1230 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:12:33.1230 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:12:33.1230 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:12:34.4726 RestaurantAPI5.Services.RestaurantService Restaurant with id: 3221, DELETE action invoked.
+2023-07-13 14:13:08.3051 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:13:08.3247 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:13:08.3247 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:13:08.3247 Microsoft.Hosting.Lifetime Hosting environment: Production
+2023-07-13 14:13:08.3247 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5\bin\Debug\net5.0
+2023-07-13 14:14:24.3725 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:14:24.3975 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:14:24.4017 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:14:24.4017 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:14:24.4017 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:15:04.5837 RestaurantAPI5.Services.RestaurantService Restaurant with id: 3221, DELETE action invoked.
+2023-07-13 14:15:35.4098 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:15:35.4329 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:15:35.4329 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:15:35.4329 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:15:35.4329 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:16:01.4408 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:16:01.4640 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:16:01.4640 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:16:01.4640 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:16:01.4640 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:16:02.3107 RestaurantAPI5.Services.RestaurantService Restaurant with id: 3221, DELETE action invoked.
+2023-07-13 14:41:41.2536 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:41:41.2831 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:41:41.2831 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:41:41.2831 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:41:41.2831 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:41:55.5165 RestaurantAPI5.Services.RestaurantService Restaurant with id: 3221, DELETE action invoked.
+2023-07-13 14:42:20.6740 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:42:20.6926 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:42:20.6926 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:42:20.6926 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:42:20.6926 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:42:25.1550 RestaurantAPI5.Services.RestaurantService Restaurant with id: 3221, DELETE action invoked.
+2023-07-13 14:42:55.7126 Microsoft.Hosting.Lifetime Application is shutting down...
+2023-07-13 14:44:10.2714 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:44:10.2954 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:44:10.2954 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:44:10.2954 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:44:10.2954 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:44:46.0236 Microsoft.Hosting.Lifetime Application is shutting down...
+2023-07-13 14:50:08.9055 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:50:08.9609 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:50:08.9609 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:50:08.9609 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:50:08.9609 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 14:59:56.1085 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 14:59:56.1302 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 14:59:56.1302 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 14:59:56.1302 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 14:59:56.1302 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:04:12.3816 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:04:12.4041 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:04:12.4041 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:04:12.4041 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:04:12.4041 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:06:52.5504 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:06:52.5681 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:06:52.5681 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:06:52.5681 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:06:52.5681 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:09:38.6797 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:09:38.6995 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:09:38.6995 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:09:38.6995 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:09:38.6995 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:10:49.6725 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:10:49.6945 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:10:49.6945 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:10:49.6945 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:10:49.6945 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:13:52.9837 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:13:53.0021 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:13:53.0021 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:13:53.0021 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:13:53.0021 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:14:42.8201 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:14:42.8472 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:14:42.8472 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:14:42.8472 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:14:42.8472 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:15:16.4538 RestaurantAPI5.Middleware.RequestTimeMIddleware Request [GET] at /Restaurant/ took 6731
+2023-07-13 15:18:37.9725 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:18:37.9967 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:18:37.9967 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:18:37.9967 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:18:37.9967 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:18:45.9615 RestaurantAPI5.Middleware.RequestTimeMIddleware Request [GET] at /Restaurant/ took 7 secpmds.
+2023-07-13 15:21:06.5376 Microsoft.Hosting.Lifetime Now listening on: https://localhost:5001
+2023-07-13 15:21:06.5597 Microsoft.Hosting.Lifetime Now listening on: http://localhost:5000
+2023-07-13 15:21:06.5597 Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2023-07-13 15:21:06.5597 Microsoft.Hosting.Lifetime Hosting environment: Development
+2023-07-13 15:21:06.5597 Microsoft.Hosting.Lifetime Content root path: D:\VisualProjects\RestaurantAPI\RestaurantAPI5
+2023-07-13 15:21:22.0956 RestaurantAPI5.Middleware.RequestTimeMiddleware Request [GET] at /Restaurant/ took 5 secpmds.
